@@ -9,4 +9,5 @@ I made a batch program to ask for admin permission and apply the settings using 
 It will stay updated as it takes the input from the actual website. I did not, however, add any error checking mechanism so if you enter a wrong input the programme will simply give terminate.
 
 As I did not have necessary certificates, I did not sign the exe application, so you might have to turn off windows smartscreen and defender for a while.
-Contact me for any additional info.
+Contact me for more technical info or any other additional info.
+Tip: You need an internet connection (maybe via a mobile hotspot) to run this program but if you have at least one time executed it properly and have not overwritten it with wrong input's data then you can use it offline too! Simply run the netset batch file!
